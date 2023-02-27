@@ -27,7 +27,7 @@ My programming languages includes:
 
 ## My Social Media:
 * <a href='https://www.linkedin.com/in/tamanchichan/'>
-    <img src='./assets/image/linkedin-logo.svg' style='width:50px;height:50px;'>
+    <img src='./assets/image/linkedin-logo.svg' style='color:#fff;height:50px;width:50px;'>
   </a>
 * [LinkedIn](https://www.linkedin.com/in/tamanchichan/)
 * [Instagram](https://www.instagram.com/tamanchichan/)
