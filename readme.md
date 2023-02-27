@@ -29,6 +29,7 @@ My programming languages includes:
 <a href='https://www.linkedin.com/in/tamanchichan/'>
   <img src='./assets/image/linkedin-logo.png' alt='Linkedin Logo'>
 </a>
+%nbsp;%nbsp;%nbsp;%nbsp;%nbsp;
 <a href='https://www.instagram.com/tamanchichan/'>
   <img src='./assets/image/instagram-logo.png' alt='Instagram Logo'>
 </a>
