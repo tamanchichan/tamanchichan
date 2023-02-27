@@ -26,6 +26,8 @@ My programming languages includes:
 * **JavaScript**
 
 ## My Social Media:
-* ![linkedin logo](./assets/image/linkedin-logo.svg)
+* <a href='https://www.linkedin.com/in/tamanchichan/'>
+    <img src='./assets/image/linkedin-logo.svg' style='width:50px;height:50px;'>
+  </a>
 * [LinkedIn](https://www.linkedin.com/in/tamanchichan/)
 * [Instagram](https://www.instagram.com/tamanchichan/)
