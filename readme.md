@@ -8,7 +8,7 @@ Rio de Janeiro, Brazil.
 I studied Chemistry for one year, and Mathematics for two years before finally
 landing on Software Developer.
 
-I am a coffee junkie, I drink at least 2 cups in the morning and 1 more in the
+I am a coffee junkie, I drink at least 2 cups in the morning and one more in the
 afternoon.
 
 ## My Skills:
@@ -20,5 +20,12 @@ My programming languages includes:
 * Java
 * SQL
 
-## Contact Me By:
+## Most Used Languages:
+* **HTML**
+* **CSS**
+* **JavaScript**
+
+## My Social Media:
+* ![linkedin logo](./assets/image/linkedin-logo.svg)
 * [LinkedIn](https://www.linkedin.com/in/tamanchichan/)
+* [Instagram](https://www.instagram.com/tamanchichan/)
