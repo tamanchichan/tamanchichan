@@ -26,8 +26,9 @@ My programming languages includes:
 * **JavaScript**
 
 ## My Social Media:
-* <a href='https://www.linkedin.com/in/tamanchichan/'>
-    <img src='./assets/image/linkedin-logo.png' style='height:50px;width:50px;'>
-  </a>
-* [LinkedIn](https://www.linkedin.com/in/tamanchichan/)
-* [Instagram](https://www.instagram.com/tamanchichan/)
+<a href='https://www.linkedin.com/in/tamanchichan/'>
+  <img src='./assets/image/linkedin-logo.png' alt='Linkedin Logo'>
+</a>
+<a href='https://www.instagram.com/tamanchichan/'>
+  <img src='./assets/image/instagram-logo.png' alt='Instagram Logo'>
+</a>
