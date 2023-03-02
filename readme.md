@@ -32,5 +32,5 @@ My programming languages includes:
 </div>
 
 ## My Social Media:
-[LinkedIn](https://www.linkedin.com/in/tamanchichan/)
-[Instagram](https://www.instagram.com/tamanchichan/)
+* [LinkedIn](https://www.linkedin.com/in/tamanchichan/)
+* [Instagram](https://www.instagram.com/tamanchichan/)
