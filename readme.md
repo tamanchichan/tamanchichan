@@ -1,4 +1,4 @@
-![background image](./assets/image/git-hub-bg.jpg 'background image')
+<img src='./assets/image/banner.gif' alt='Banner' width='100%' height='250px'>
 
 # About Me!
 Hi! I am Taman, a Software Developer student at Winnipeg, Canada. I'm from
@@ -21,10 +21,10 @@ My programming languages includes:
 
 ## My Stats:
 <a href='https://github.com/tamanchichan'>
-  <img src='https://github-readme-stats.vercel.app/api?username=tamanchichan&theme=vue&show_icons=true' alt='My GitHub Stats' height='200px'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=tamanchichan&theme=vue&show_icons=true' alt='My GitHub Stats' height='200px'>
 </a>
 <a href='https://github.com/tamanchichan'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tamanchichan&theme=vue&hide=Ruby&show_icons=true&langs_count=3' alt='My GitHub Stats' height='200px'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tamanchichan&theme=vue&hide=Ruby&show_icons=true&langs_count=3' alt='My GitHub Stats' height='200px'>
 </a>
 
 ## My Social Media:
