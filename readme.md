@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='./assets/image/banner.gif'>
+  <img src='./assets/image/banner.gif' height='150px'>
 </div>
 
 # About Me!
