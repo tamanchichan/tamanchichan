@@ -1,4 +1,4 @@
-<img src='./assets/image/banner.gif' text-align='center'>
+<img src='./assets/image/banner.gif' align='center'>
 
 # About Me!
 Hi! I am Taman, a Software Developer student at Winnipeg, Canada. I'm from
