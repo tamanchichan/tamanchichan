@@ -1,7 +1,6 @@
 ![background image](./assets/image/git-hub-bg.jpg 'background image')
 
 # About Me!
-
 Hi! I am Taman, a Software Developer student at Winnipeg, Canada. I'm from
 Rio de Janeiro, Brazil.
 
@@ -20,10 +19,9 @@ My programming languages includes:
 * Java
 * SQL
 
-## Most Used Languages:
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
+## My Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamanchichan)](https://github.com/tamanchichan)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanchichan)](https://github.com/tamanchichan)
 
 ## My Social Media:
 <a href='https://www.linkedin.com/in/tamanchichan/'>
