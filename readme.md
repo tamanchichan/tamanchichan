@@ -1,4 +1,6 @@
-<img src='./assets/image/banner.gif' align='center'>
+<div align='center'>
+  <img src='./assets/image/banner.gif'>
+</div>
 
 # About Me!
 Hi! I am Taman, a Software Developer student at Winnipeg, Canada. I'm from
@@ -20,12 +22,14 @@ My programming languages includes:
 * SQL
 
 ## My Stats:
-<a href='https://github.com/tamanchichan'>
-  <img src='https://github-readme-stats.vercel.app/api?username=tamanchichan&theme=vue&show_icons=true' alt='My GitHub Stats' height='200px'>
-</a>
-<a href='https://github.com/tamanchichan'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tamanchichan&theme=vue&hide=Ruby&show_icons=true&langs_count=3' alt='My GitHub Stats' height='200px'>
-</a>
+<div align='center'>
+  <a href='https://github.com/tamanchichan'>
+    <img src='https://github-readme-stats.vercel.app/api?username=tamanchichan&theme=vue&show_icons=true' alt='My GitHub Stats' height='200px'>
+  </a>
+  <a href='https://github.com/tamanchichan'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tamanchichan&theme=vue&hide=Ruby&show_icons=true&langs_count=3' alt='My GitHub Stats' height='200px'>
+  </a>
+</div>
 
 ## My Social Media:
 [LinkedIn](https://www.linkedin.com/in/tamanchichan/)
