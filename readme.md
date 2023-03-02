@@ -1,4 +1,4 @@
-<img src='./assets/image/banner.gif' alt='Banner' width='100%' height='250px'>
+<img src='./assets/image/banner.gif' text-align='center'>
 
 # About Me!
 Hi! I am Taman, a Software Developer student at Winnipeg, Canada. I'm from
@@ -28,9 +28,5 @@ My programming languages includes:
 </a>
 
 ## My Social Media:
-<a href='https://www.linkedin.com/in/tamanchichan/'>
-  <img src='./assets/image/linkedin-logo.png' alt='Linkedin Logo'>
-</a>
-<a href='https://www.instagram.com/tamanchichan/'>
-  <img src='./assets/image/instagram-logo.png' alt='Instagram Logo'>
-</a>
+[LinkedIn](https://www.linkedin.com/in/tamanchichan/)
+[Instagram](https://www.instagram.com/tamanchichan/)
