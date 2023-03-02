@@ -20,8 +20,8 @@ My programming languages includes:
 * SQL
 
 ## My Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamanchichan)](https://github.com/tamanchichan)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanchichan)](https://github.com/tamanchichan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamanchichan&line_height=25)](https://github.com/tamanchichan)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanchichan&line_height=25)](https://github.com/tamanchichan)
 
 ## My Social Media:
 <a href='https://www.linkedin.com/in/tamanchichan/'>
