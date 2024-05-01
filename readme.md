@@ -3,23 +3,23 @@
 </div>
 
 # About Me!
-Hi! I am Taman, a Software Developer student at Winnipeg, Canada. I'm from
-Rio de Janeiro, Brazil.
+Hello! My name is Taman, and I am a Software Developer alumni of the Manitoba Institute of Trades & Technology, Winnipeg, Canada. I am from Rio de Janeiro, Brazil.
 
-I studied Chemistry for one year, and Mathematics for two years before finally
-landing on Software Developer.
+I am proficient in front-end and as well in back-end technologies, with expertise in programming languages in JavaScript and C#.
 
-I am a coffee junkie, I drink at least 2 cups in the morning and one more in the
-afternoon.
+I am also a critical thinker and effective problem-solver with the ability to anticipate and prevent setbacks. Flexible with the aptitude to work well under pressure and fast-paced environments.
+
+My strong interpersonal communication skills, analytical and innovative skills, all geared towards approaching challenging situations with a solutions-oriented mindset.
 
 ## My Skills:
-My programming languages includes:
+My programming languages include:
 * HTML
 * CSS
 * JavaScript
-* Python
-* Java
 * SQL
+* C#
+* Java
+* Python
 
 ## My Stats:
 <div align='center'>
@@ -33,4 +33,3 @@ My programming languages includes:
 
 ## My Social Media:
 * [LinkedIn](https://www.linkedin.com/in/tamanchichan/)
-* [Instagram](https://www.instagram.com/tamanchichan/)
